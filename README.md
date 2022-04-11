@@ -10,4 +10,4 @@ Yes: Denotes that it will rain tomorrow
 No: Denotes it will not rain tomorrow
 Therefore, this is clearly a classification problem. The Machine Learning model will classify the output into 2 classes, either YES or NO.
 
-For access the following code in google colab: https://drive.google.com/drive/folders/1aJiReCtwRQ9vpCvMndwupyJ9C9_nRIMr?usp=sharing
+For access the following source code in google colab: https://drive.google.com/drive/folders/1aJiReCtwRQ9vpCvMndwupyJ9C9_nRIMr?usp=sharing
